@@ -1,0 +1,10 @@
+{
+  "metadata-keys": [
+    {
+      "metadataKey": "image",
+      "label": "Image",
+      "shouldHideLabel": true,
+      "containsMarkdown": true
+    }
+  ]
+}
