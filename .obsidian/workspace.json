@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61953207f3f8f70b",
+        "id": "2a009114f3b3720b",
         "type": "tabs",
         "children": [
           {
-            "id": "85e992488c824c7d",
+            "id": "8ff85d812631473a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Data Queries/Search for all Quests given by Residents on Area A.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Search for all Quests given by Residents on Area A"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6bc3b3758905ebfd",
@@ -112,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Data Queries/Search for all Quests given by Residents on Area A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Search for all Quests given by Residents on Area A"
+              "title": "Outgoing links"
             }
           },
           {
@@ -180,47 +175,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85e992488c824c7d",
+  "active": "8ff85d812631473a",
   "lastOpenFiles": [
-    "6. Data Queries/Search for all Quests given by Residents on Area A.md",
-    "5. Types/Area.md",
-    "2. Structured Data/Houses/School B.md",
-    "2. Structured Data/Quests/Homework.md",
-    "2. Structured Data/Areas/Area A.md",
-    "999. Templates/Quest Template.md",
-    "999. Templates/Resident Template.md",
-    "6. Data Queries",
-    "2. Structured Data/Residents/Student A.md",
-    "2. Structured Data/Residents/Teacher.md",
-    "2. Structured Data/Houses/Hospital A.md",
-    "2. Structured Data/Houses/House D.md",
-    "2. Structured Data/Houses/House C.md",
-    "999. Templates/Basic Template.md",
-    "999. Templates/House Template.md",
-    "1. Kanban/Note 2.md",
-    "1. Kanban/Note 1.md",
-    "3. Canvas/Canvas F.canvas",
-    "2. Structured Data/Areas/Area B.md",
-    "1. Kanban/Note 4.md",
-    "2. Structured Data/Quests",
-    "2. Structured Data/Houses",
-    "2. Structured Data/Residents",
-    "2. Structured Data/Areas",
-    "1. Kanban/Note 3.md",
-    "5. Types/Quest.md",
-    "5. Types/Resident.md",
-    "5. Types/House.md",
-    "999. Templates/Area Template.md",
-    "5. Types",
+    "5. Data Queries/Search for all shows episodes that I haven't watched.md",
+    "2. Structured Data/shows/American Gods.md",
+    "2. Structured Data/shows/American Horror Stories.md",
     "1. Kanban/Kanban Example.md",
+    "1. Kanban/Note 2.md",
+    "5. Data Queries/Search for all games ordered by price.md",
+    "1. Kanban/Note 3.md",
+    "2. Structured Data/assignments/assignment_5.md",
+    "6. Tasks/Task Tracker.md",
+    "2. Structured Data/assignments/assignment_9.md",
+    "2. Structured Data/weeklys/2022-W39.md",
+    "2. Structured Data/assignments/assignment_1.md",
+    "2. Structured Data/dailys/2022-01-17.md",
+    "2. Structured Data/dailys/2022-01-02.md",
+    "Tasks.md",
+    "999. Templates/Basic Template.md",
+    "6. Tasks/Tasks.md",
+    "6. Tasks",
+    "2. Structured Data/projects/project_2.md",
+    "2. Structured Data/projects/Goal 2.md",
+    "2. Structured Data/projects/Goal 1.md",
+    "2. Structured Data/games/ELDEN RING.md",
+    "2. Structured Data/games/Team Fortress 2.md",
+    "2. Structured Data/games/Dota 2.md",
+    "2. Structured Data/games/Among Us.md",
+    "5. Types/Area.md",
+    "20 Dataview Queries/Get latest open tasks.md",
+    "00 Meta/attachments/vinh-thang-6kvo87bw88I-unsplash.jpg",
+    "00 Meta/attachments/edanur-agac-DF-HKIKHr_0-unsplash.jpg",
+    "00 Meta/attachments/Bar Chart Series Category Value 2.png",
+    "00 Meta/attachments/Bar Chart Series Category Value.png",
+    "00 Meta/Vault Infos",
+    "00 Meta/templates",
+    "00 Meta/templater_templates",
+    "00 Meta/maintenance",
+    "00 Meta/dataview_views/usedInAUseCase/view.js",
+    "00 Meta/dataview_views/year_overview/view.js",
+    "00 Meta/dataview_views/year_overview/view.css",
+    "00 Meta/dataview_views/tagcloud/view.js",
+    "00 Meta/dataview_views/tagcloud/view.css",
+    "00 Meta/attachments/flower_growth/flowergrowth6.png",
+    "00 Meta/attachments/flower_growth/flowergrowth5.png",
+    "00 Meta/attachments/flower_growth/flowergrowth4.png",
+    "00 Meta/attachments/flower_growth/flowergrowth3.png",
+    "00 Meta/attachments/flower_growth/flowergrowth2.png",
+    "00 Meta/attachments/flower_growth/flowergrowth1.png",
     "3. Canvas/Canvas A.canvas",
-    "4. Excalidraw/Example.md",
-    "4. Excalidraw",
-    "3. Canvas",
-    "998. Files/cirno.png",
-    "998. Files/msedge_RwdK50FN0t.png",
-    "998. Files",
-    "Excalidraw/Drawing 2025-01-13 20.10.50.excalidraw.md",
-    "Excalidraw"
+    "3. Canvas/Canvas F.canvas"
   ]
 }

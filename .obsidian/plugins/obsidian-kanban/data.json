@@ -6,5 +6,6 @@
       "shouldHideLabel": true,
       "containsMarkdown": true
     }
-  ]
+  ],
+  "show-checkboxes": true
 }
