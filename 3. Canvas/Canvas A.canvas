@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "f521e4a4a009f5a7",
+      "type": "text",
+      "text": "A",
+      "styleAttributes": {},
+      "x": -267,
+      "y": -400,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "42ff3f06bacb9b21",
+      "type": "text",
+      "text": "B",
+      "styleAttributes": {},
+      "x": -267,
+      "y": -260,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "75d9c18022cc6c66",
+      "type": "text",
+      "text": "C",
+      "styleAttributes": {},
+      "x": -267,
+      "y": -120,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "74184d6aa85724bd",
+      "type": "text",
+      "text": "D",
+      "styleAttributes": {},
+      "x": -267,
+      "y": 20,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9357980acfc3c178",
+      "type": "file",
+      "file": "3. Canvas/Canvas F.canvas",
+      "styleAttributes": {},
+      "x": -342,
+      "y": 160,
+      "width": 400,
+      "height": 303
+    }
+  ],
+  "edges": [
+    {
+      "id": "1ff8490cb4df17e7",
+      "fromNode": "f521e4a4a009f5a7",
+      "fromSide": "bottom",
+      "toNode": "42ff3f06bacb9b21",
+      "toSide": "top"
+    },
+    {
+      "id": "fdf70922285ac19a",
+      "fromNode": "42ff3f06bacb9b21",
+      "fromSide": "bottom",
+      "toNode": "75d9c18022cc6c66",
+      "toSide": "top"
+    },
+    {
+      "id": "fa493d3b0196dad9",
+      "fromNode": "75d9c18022cc6c66",
+      "fromSide": "bottom",
+      "toNode": "74184d6aa85724bd",
+      "toSide": "top"
+    },
+    {
+      "id": "83597bfdc990c45e",
+      "fromNode": "74184d6aa85724bd",
+      "fromSide": "bottom",
+      "toNode": "9357980acfc3c178",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "0871f43913b9398c",
+      "type": "file",
+      "file": "3. Canvas/Canvas A.canvas",
+      "styleAttributes": {},
+      "x": -159,
+      "y": -660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "76be89adb885e028",
+      "type": "text",
+      "text": "G",
+      "styleAttributes": {},
+      "x": -84,
+      "y": -200,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "36dfd821dee99376",
+      "type": "text",
+      "text": "H",
+      "styleAttributes": {},
+      "x": -84,
+      "y": -80,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "eb224acef7a750f8",
+      "styleAttributes": {},
+      "fromNode": "76be89adb885e028",
+      "fromSide": "bottom",
+      "toNode": "36dfd821dee99376",
+      "toSide": "top"
+    },
+    {
+      "id": "0763588d3683a8d2",
+      "styleAttributes": {},
+      "fromNode": "0871f43913b9398c",
+      "fromSide": "bottom",
+      "toNode": "76be89adb885e028",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

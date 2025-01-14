@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e4cc951e5e45e11e",
+        "id": "61953207f3f8f70b",
         "type": "tabs",
         "children": [
           {
-            "id": "96fb2cf65e9129df",
+            "id": "85e992488c824c7d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "1. Kanban/Kanban Example.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "6. Data Queries/Search for all Quests given by Residents on Area A.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Example"
+              "icon": "lucide-file",
+              "title": "Search for all Quests given by Residents on Area A"
             }
           }
         ]
@@ -99,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Kanban/Kanban Example.md",
+                "file": "6. Data Queries/Search for all Quests given by Residents on Area A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban Example"
+              "title": "Backlinks for Search for all Quests given by Residents on Area A"
             }
           },
           {
@@ -118,62 +112,115 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Kanban/Kanban Example.md",
+                "file": "6. Data Queries/Search for all Quests given by Residents on Area A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kanban Example"
+              "title": "Outgoing links from Search for all Quests given by Residents on Area A"
             }
           },
           {
-            "id": "7bfa28dd21503ca1",
+            "id": "4bc2330d56dbb6e9",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c4117ac2dddfe64e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "03eb1b1bd3289fe5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Data Queries/Search for all Quests given by Residents on Area A.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Search for all Quests given by Residents on Area A"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bfa28dd21503ca1",
+  "active": "85e992488c824c7d",
   "lastOpenFiles": [
-    "2. Tasks/Task 1.md",
+    "6. Data Queries/Search for all Quests given by Residents on Area A.md",
+    "5. Types/Area.md",
+    "2. Structured Data/Houses/School B.md",
+    "2. Structured Data/Quests/Homework.md",
+    "2. Structured Data/Areas/Area A.md",
+    "999. Templates/Quest Template.md",
+    "999. Templates/Resident Template.md",
+    "6. Data Queries",
+    "2. Structured Data/Residents/Student A.md",
+    "2. Structured Data/Residents/Teacher.md",
+    "2. Structured Data/Houses/Hospital A.md",
+    "2. Structured Data/Houses/House D.md",
+    "2. Structured Data/Houses/House C.md",
+    "999. Templates/Basic Template.md",
+    "999. Templates/House Template.md",
+    "1. Kanban/Note 2.md",
+    "1. Kanban/Note 1.md",
+    "3. Canvas/Canvas F.canvas",
+    "2. Structured Data/Areas/Area B.md",
+    "1. Kanban/Note 4.md",
+    "2. Structured Data/Quests",
+    "2. Structured Data/Houses",
+    "2. Structured Data/Residents",
+    "2. Structured Data/Areas",
+    "1. Kanban/Note 3.md",
+    "5. Types/Quest.md",
+    "5. Types/Resident.md",
+    "5. Types/House.md",
+    "999. Templates/Area Template.md",
+    "5. Types",
+    "1. Kanban/Kanban Example.md",
+    "3. Canvas/Canvas A.canvas",
+    "4. Excalidraw/Example.md",
+    "4. Excalidraw",
+    "3. Canvas",
     "998. Files/cirno.png",
     "998. Files/msedge_RwdK50FN0t.png",
     "998. Files",
-    "1. Kanban/Kanban Example.md",
     "Excalidraw/Drawing 2025-01-13 20.10.50.excalidraw.md",
-    "2. Tasks/Task 4.md",
-    "Excalidraw/Drawing 2025-01-13 20.10.48.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-13 20.10.50_0.excalidraw.md",
-    "Excalidraw",
-    "2. Tasks",
-    "2. Tasks/Task 3.md",
-    "2. Tasks/Task 2.md",
-    "Untitled Kanban.md",
-    "1. Kanban",
-    "999. Templates"
+    "Excalidraw"
   ]
 }

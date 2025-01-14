@@ -6,18 +6,18 @@ kanban-plugin: board
 
 ## Pending
 
-- [ ] [[Task 3]]
+- [ ] [[Note 3]]
 
 
 ## In Progress (5)
 
 - [ ] [[Task 1]]
-- [ ] [[Task 2]]
+- [ ] [[Note 2]]
 
 
 ## Done
 
-- [ ] [[Task 4]]
+- [ ] [[Note 4]]
 
 
 

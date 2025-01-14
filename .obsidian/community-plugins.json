@@ -3,6 +3,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-kanban",
-  "quickadd",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "simple-canvasearch",
+  "advanced-canvas",
+  "templater-obsidian"
 ]
